@@ -29,4 +29,8 @@ public class HashMapStringKeyExample {
 
         scanner.close();
     }
-}# Assignment-4
+}
+output 
+HashMap: {A101=Apple, B202=Banana, C303=Cherry, D404=Date}
+Enter key to search : B202
+Key found! Value = Banana# Assignment-4
